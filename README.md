@@ -44,7 +44,7 @@ Based on the analysis, recommendations include implementing dynamic pricing, int
 
 ## Contributors
 
-- [Your Name](https://github.com/sanjuverma2252)
+- [SANJU VERMA](https://github.com/sanjuverma2252)
 
 ## Acknowledgments
 
