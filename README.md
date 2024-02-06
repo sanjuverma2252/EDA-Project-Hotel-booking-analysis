@@ -38,12 +38,15 @@ The project aims to gain insights into customer behavior when booking hotels and
 
 Based on the analysis, recommendations include implementing dynamic pricing, introducing offers and loyalty programs, and enhancing amenities to attract and retain customers and increase bookings.
 
-## Contributors
-
-- [SANJU VERMA](https://github.com/sanjuverma2252)
-
 ## Getting Started
 
-1. Clone the repository:
-   
+1. Open the project in Google Colab to explore the analysis and findings.
+
+## Contributors
+
+- [Your Name](https://github.com/sanjuverma2252)
+
+## Acknowledgments
+
+- This project was completed as part of [Almabetter's Full Stack Data Science Course](https://www.almabetter.com/).
 
